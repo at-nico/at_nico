@@ -11,6 +11,6 @@ Cet espace a pour but de documenter mes travaux pratiques et mes labs personnels
 - **Projets Lab :** Déploiement de Pi-hole en environnement virtualisé.
 - **Bases de données :** Langage SQL.
 
-*Les documentations détaillées de mes labs sont en cours de rédaction et seront publiées ici très prochainement, plutôt tortue que lièvre face à cette nouvelle aventure.*
+*Les documentations détaillées de mes labs sont en cours de rédaction et seront publiées ici très prochainement, plutôt tortue que lièvre face à cette nouvelle aventure, je focalise beaucoup de mon attention sur la recherche de mon alternance avec un nouveau projet 100% bénévole en cours de lancement.*
 
 **Me contacter :** nicolas.chaumont9@gmail.com
